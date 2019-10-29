@@ -7,4 +7,4 @@ Mirror of policies for the Stumptown Syndicate.
 * [Syndicate Code of Conduct](syndicate_code_of_conduct.md): Stumptown Syndicate specific Code of Conduct.
 * [Reporting Guidelines](reporting_guidelines.md): Reporting guidelines for the Stumptown Syndicate Code of Conduct.
 
-Questions or comments? Get in touch with us board@stumptownsyndicate.org.
+Questions or any comments? Get in touch with us board@stumptownsyndicate.org.
